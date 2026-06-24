@@ -5,3 +5,4 @@
 [2 ผลงาน](suport.md)<br>
 [ค้นหาข้อมูล] (http://www.google.com).<br>
 [myprogram01](program01.py)<br>
+[myprogram02](program02.py)<br>
